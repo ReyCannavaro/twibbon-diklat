@@ -35,7 +35,7 @@ export default function HomePage() {
 
       <div className={styles.container}>
         <div className={`anim-fadeInUp ${styles.badgeWrap}`} style={{ animationDelay: "0s" }}>
-          <span className="badge badge-gold">✦ Pastemda × SMK Telkom Sidoarjo ✦</span>
+          <span className="badge badge-gold">✦ Pastemda SMK Telkom Sidoarjo ✦</span>
         </div>
 
         <h1
